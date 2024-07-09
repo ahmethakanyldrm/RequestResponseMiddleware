@@ -46,7 +46,7 @@ app.AddRequestResponseMiddleware(option=> {
 To install the RequestResponse Middleware, use the following .NET CLI command:
 
 ```bash
-dotnet add package RequestResponseMiddleware
+dotnet add package RequestResponseMiddleware.Library
 ```
 
 ## Contributing
