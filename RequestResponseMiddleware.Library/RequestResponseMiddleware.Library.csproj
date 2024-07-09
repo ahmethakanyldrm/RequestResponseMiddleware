@@ -16,6 +16,7 @@
     <PackageReference Include="Microsoft.IO.RecyclableMemoryStream" Version="3.0.1" />
   </ItemGroup>
 
+  
   <ItemGroup>
     <None Update="License\LICENSE.txt">
       <Pack>True</Pack>
